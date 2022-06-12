@@ -10,4 +10,4 @@ distanciaPercorrida = quilometrosPercorridosPeloVeiculo * 0.621371;
 Console.WriteLine($"distanciaPercorrida eh de {distanciaPercorrida} milhas");
 
 // adicionando comentario 01
-
+// add comentario 02
